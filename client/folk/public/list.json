@@ -1,0 +1,98 @@
+[
+    {
+        "id":1,
+        "name":"Fiction Books",
+        "title":"yeah ek kahani ki kitab hai ise jaroor padhe",
+        "price":0,
+        "category":"fiction",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1714036457~exp=1714040057~hmac=847dc77d4c89726f7465a7e06bb0ad27bd72a1ae2795deefa9f29ce319afe143&w=740"
+    },
+    {
+        "id":2,
+        "name":"Mystery Books",
+        "title":"yeah ek kahani ki kitab hai ise jaroor padhe",
+        "price":0,
+        "category":"mystery",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1714036457~exp=1714040057~hmac=847dc77d4c89726f7465a7e06bb0ad27bd72a1ae2795deefa9f29ce319afe143&w=740"
+    },
+    {
+        "id":3,
+        "name":"Non-fiction Books",
+        "title":"yeah ek kahani ki kitab hai ise jaroor padhe",
+        "price":0,
+        "category":"non-fi",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1714036457~exp=1714040057~hmac=847dc77d4c89726f7465a7e06bb0ad27bd72a1ae2795deefa9f29ce319afe143&w=740"
+    },
+    {
+        "id":4,
+        "name":"Biography Books",
+        "title":"yeah ek kahani ki kitab hai ise jaroor padhe",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1714036457~exp=1714040057~hmac=847dc77d4c89726f7465a7e06bb0ad27bd72a1ae2795deefa9f29ce319afe143&w=740"
+    },
+    {
+        "id":5,
+        "name":"Science Fiction Books",
+        "title":"yeah ek kahani ki kitab hai ise jaroor padhe",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1714036457~exp=1714040057~hmac=847dc77d4c89726f7465a7e06bb0ad27bd72a1ae2795deefa9f29ce319afe143&w=740"
+    },
+    {
+        "id":6,
+        "name":"Fantasy Books",
+        "title":"yeah ek kahani ki kitab hai ise jaroor padhe",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1714036457~exp=1714040057~hmac=847dc77d4c89726f7465a7e06bb0ad27bd72a1ae2795deefa9f29ce319afe143&w=740"
+    },
+    {
+        "id":7,
+        "name":"History Books",
+        "title":"yeah ek kahani ki kitab hai ise jaroor padhe",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1714036457~exp=1714040057~hmac=847dc77d4c89726f7465a7e06bb0ad27bd72a1ae2795deefa9f29ce319afe143&w=740"
+    },
+    {
+        "id":8,
+        "name":"Behavioural Books",
+        "title":"yeah ek kahani ki kitab hai ise jaroor padhe",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1714036457~exp=1714040057~hmac=847dc77d4c89726f7465a7e06bb0ad27bd72a1ae2795deefa9f29ce319afe143&w=740"
+    },
+    {
+        "id":9,
+        "name":"Travel Books",
+        "title":"yeah ek kahani ki kitab hai ise jaroor padhe",
+        "price":0,
+        "category":"travel",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1714036457~exp=1714040057~hmac=847dc77d4c89726f7465a7e06bb0ad27bd72a1ae2795deefa9f29ce319afe143&w=740"
+    },
+    {
+        "id":10,
+        "name":"Poetry Books",
+        "title":"yeah ek kahani ki kitab hai ise jaroor padhe",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1714036457~exp=1714040057~hmac=847dc77d4c89726f7465a7e06bb0ad27bd72a1ae2795deefa9f29ce319afe143&w=740"
+    },
+    {
+        "id":11,
+        "name":"Nature Books",
+        "title":"yeah ek kahani ki kitab hai ise jaroor padhe",
+        "price":0,
+        "category":"nature",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1714036457~exp=1714040057~hmac=847dc77d4c89726f7465a7e06bb0ad27bd72a1ae2795deefa9f29ce319afe143&w=740"
+    },
+    {
+        "id":12,
+        "name":"Cookbooks/Food",
+        "title":"yeah ek kahani ki kitab hai ise jaroor padhe",
+        "price":0,
+        "category":"food",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1714036457~exp=1714040057~hmac=847dc77d4c89726f7465a7e06bb0ad27bd72a1ae2795deefa9f29ce319afe143&w=740"
+    }
+]
